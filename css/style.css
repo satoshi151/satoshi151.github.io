@@ -406,7 +406,7 @@ a:hover{
 
 #header{
 /*	background: url('../img/bg-body.jpg') no-repeat center center fixed;*/
-  background: url('http://upload.wikimedia.org/wikipedia/commons/0/0e/Forced-linux-kernel-panic-under-qemu.jpg') no-repeat center center fixed;
+  background: url('/img/Forced-linux-kernel-panic-under-qemu.jpg') no-repeat center center fixed;
 	color: #ecf0f1;
 	background-size: cover;
 	-webkit-background-size: cover;
