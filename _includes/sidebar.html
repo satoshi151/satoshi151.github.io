@@ -17,7 +17,7 @@
       {% for post in site.posts limit:5 %}
       <li class="recent-post">
       <div class="thumbnail">
-        <img src="img/content/thumbnail1.jpg" class="img-responsive">
+        <img src="/{{ post.thumb }}" class="img-responsive">
       </div>
       <a href="#"><h5>{{ post.title }}</h5></a>
       <p><small><i class="fa fa-calendar" data-original-title="" title=""></i>&ensp;<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">       {{ post.date | date: "%b %-d, %Y" }}</time></small></p>
