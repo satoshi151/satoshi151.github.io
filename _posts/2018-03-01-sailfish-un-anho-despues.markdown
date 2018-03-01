@@ -1,4 +1,3 @@
-A
 ---
 layout: post
 title:  "Sailfish OS, un año de uso después"
