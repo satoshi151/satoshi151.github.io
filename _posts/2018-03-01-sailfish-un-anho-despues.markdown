@@ -1,5 +1,11 @@
-title: Sailfish OS: Despues de un aÃ±o de uso
-
+---
+layout: post
+title:  "Sailfish OS, Un año de uso después"
+date:   2018-03-01 00:55:26 -0500
+categories: general
+tags: blog
+topimg: "img/blog1.jpg"
+thumb: "img/blog1.jpg"
 ---
 
 En Noviembre de 2016 cayó en mis manos mi primer equipo basado en Sailfish OS: Nada más y nada menos que un Intex Aquafish. De fabricacion hindú, este equipo lleva consigo el sistema operativo que varios buscaban como una alternativa que en verdad pudiera hacerle frente a las que dominan el mercado y que comprendan una alternativa que pueda utilizarse de manera regular. Aquí mis observaciones luego de un año como usuario del mencionado sistema.
