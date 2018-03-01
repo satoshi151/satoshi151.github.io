@@ -39,6 +39,8 @@ Por otro lado, luego de un tiempo en mi bolsillo la camara de rompió. Así de s
 En definitiva este es el apartado que más me interesa. Vamos a describirlo por puntos.
 El sistema operativo Sailfish OS versión 2, utiliza una interfaz gráfica propia llamada "Silica", que como mencione líneas arriba está desarrollada con el framework Qt que se ejecuta sobre Wayland. Utiliza como base el proyecto MeR (MeeGo Reconstructed), por lo que su kernel es Linux y su gestor de paquetes Zypper.
 
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/sailfish.png" description="Información del sistema operativo que devuelve el teléfono." %}
+
 #### La interfaz de usuario
 La GUI de Sailfish OS recuerda bastante a la de Nokia N9 MeeGo Harmattan. Las aplicaciones pueden ser cerradas haciendo _swipe_ de arriba hacia abajo y las aplicaciones aparecen yuxtapuestas mientras están minimizadas. 
 
