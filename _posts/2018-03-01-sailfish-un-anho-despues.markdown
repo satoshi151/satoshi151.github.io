@@ -12,13 +12,13 @@ En Noviembre de 2016 cayó en mis manos mi primer equipo basado en Sailfish OS: 
 
 #### La adquisición
 
-Pasar a usar el Aquafish parecía una alternativa interesante y al parecer la más lógica luego de haber sido usuario de MeeGo Harmattan con el ya recordado Nokia N9 y además usuario tambien de Blackberry OS 10 sobre Blackberry Z30. Las tres plataformas antes mencionadas corrían una interfaz gráfica desarrollada sobre el famoso framework Qt, antes propiedad de Nokia y ahora de Digia.
+Pasar a usar el Aquafish parecía una alternativa interesante y al parecer la más lógica luego de haber sido usuario de MeeGo Harmattan con el ya recordado Nokia N9 y además usuario tambien de Blackberry OS 10 sobre Blackberry Z30. Las tres plataformás antes mencionadas corrían una interfaz gráfica desarrollada sobre el famoso framework Qt, antes propiedad de Nokia y ahora de Digia.
 
-Dos de los tres sistemas están basados en Linux (Blackberry OS utiliza QNX como base), los que también tienen partes de su sistema liberados bajo licencias libres, aunque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
+Dos de los tres sistemás están basados en Linux (Blackberry OS utiliza QNX como base), los que también tienen partes de su sistema liberados bajo licencias libres, aúnque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
 
 #### Generalidades sobre el equipo
 
-Aquafish tiene un enfoque minimalista para mercados emergentes y eso se nota a primera vista. La cubierta de plástico que cubre su bateria se siente corriente al tacto. Intex vende este telefono solo en un color: "Naranja coral". Una edición rebranded del mismo equipo, el Jolla C tiene una cubierta roja. sin embargo la posición de la cámara en ambos equipos imposibilita el intercambio de dichas tapas.
+Aquafish tiene un enfoque minimalista para mercados emergentes y eso se nota a primera vista. La cubierta de plástico que cubre su bateria se siente corriente al tacto. Intex vende este telefono sólo en un color: "Naranja coral". Una edición rebranded del mismo equipo, el Jolla C tiene una cubierta roja. sin embargo la posición de la cámara en ambos equipos imposibilita el intercambio de dichas tapas.
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/foto_camara_aquafish.jpg" description="Fotografía tomada con la cámara del teléfono." %}
 
@@ -28,12 +28,12 @@ El equipo en cuestión es de doble chip. Sin embargo tiene ciertas limitaciones 
 
 El sonido es pobre. Su nivel de intensidad limitado. Escuchar audio de volumen bajo es materialmente imposible. Realizar llamadas en altavoz es una ironía, me obliga a llevarme el equipo al oído mientras hablo.
 
-Aunque el Wifi tiene problemas con algunas redes N, va bien en G. El Bluetooth también va bien. No me dió problemas con unos audífonos Skullcandy que poseo aunque no he probado con otros. 
+Aunque el Wifi tiene problemás con algunas redes N, va bien en G. El Bluetooth también va bien. No me dió problemás con unos audífonos Skullcandy que poseo aúnque no he probado con otros. 
 
 #### Resistencia
-Veamos, ya mencione que el equipo deja mucho que desear en cuanto a esto, y al tacto se siente "corriente". Plástico poco cuidado. La cubierta anaranjada ha empezado a decolorarse, ademas de haber sufrido algunos rayones bajo los cuales se percibe el color blanco del plástico base. El acabado es de tan poca calidad que de las letras plateadas que muestran el logotipo de la marca "Intex", se salió la "X" el tercer día de uso. Completamente inesperado.
+Veamos, ya mencione que el equipo deja mucho que desear en cuanto a esto, y al tacto se siente "corriente". Plástico poco cuidado. La cubierta anaranjada ha empezado a decolorarse, además de haber sufrido algunos rayones bajo los cuales se percibe el color blanco del plástico base. El acabado es de tan poca calidad que de las letras plateadas que muestran el logotipo de la marca "Intex", se salió la "X" el tercer día de uso. Completamente inesperado.
 
-Por otro lado, luego de un tiempo en mi bolsillo la camara de rompió. Así de simple. Se quebro la resina transparente que recubre la camara. Esto solo ocasiona problemas al tomar fotografías con mucha luz.
+Por otro lado, luego de un tiempo en mi bolsillo la camara de rompió. Así de simple. Se quebro la resina transparente que recubre la camara. Esto sólo ocasíona problemás al tomar fotografías con mucha luz.
 
 #### El Sistema Operativo
 En definitiva este es el apartado que más me interesa. Vamos a describirlo por puntos.
@@ -62,11 +62,11 @@ Finalmente la forma en la que se maneja el cambio de horizontal a vertical de la
 #### Las aplicaciones out-of-the-box
 Este es otro apartado que quería comentar. Vamos por lo fundamental: La aplicación de teléfono. Digamos que usted recibe una llamada importante a cierta hora y no lo ha notado. Posteriormente la persona que lo llamó vuelve a llamarle y usted contesta. La persona le increpa el porqué de su no atención a su llamada. Usted revisa las llamadas que ocurrieron en el teléfono. Ni se esfuerce. Sailfish OS no guarda registro de ello. Sólo guarda esta información una vez y la última vez que ocurrió por cada diferente llamante. Lo cual por ejemplo me ha resultado poco práctico para demostrar que cierto banco me llamaba todos los dias a las 3 de tarde. En fin. Punto en contra.
 
-Veamos algo también fundamental: El teclado. El teclado de Sailfish OS deja en definitiva mucho que desear. En comparación por ejemplo con teclados como el del Blackberry OS 10 que no solo es predictivo sino que el teclado era capaz de predecir que tecla en verdad intentabas presionar, aca no se da el caso. Las teclas están tan mal dispuestas y tienen un tamaño tan poco adecuado que oprimir la equivocada es muy fácil. En ese sentido es un verdadero dolor de cabeza cuando al querer oprimir la barra espaciadora termina uno oprimiendo puntos.
+Veamos algo también fundamental: El teclado. El teclado de Sailfish OS deja en definitiva mucho que desear. En comparación por ejemplo con teclados como el del Blackberry OS 10 que no sólo es predictivo (en cuanto a palabras) sino que el teclado era capaz de predecir que tecla en verdad intentabas presionar, aca no se da el caso. Las teclas están tan mal dispuestas y tienen un tamaño tan poco adecuado que oprimir la equivocada es muy fácil. En ese sentido es un verdadero dolor de cabeza cuando al querer oprimir la barra espaciadora termina uno oprimiendo puntos.
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/teclado.png" description="El teclado por defecto en el teléfono. No encontré algún otro alternativo." %}
 
-Un dato adicional sobre el teclado. Al igual que MeeGo Harmattan, Sailfish trae por defecto un emulador de Terminal para acceder a la línea de comandos del teléfono (lo cual es para mí bastante útil, sobre todo porque a veces se me antoja escribir mis entradas del blog desde la Terminal usando VIM que es mi editor favorito). El teclado de la Terminal en Sailfish OS es diferente, para incluir algunas teclas adicionales. Las teclas estan aun mas juntas y son mucho mas pequeñas. No tengo las manos de Slenderman, sino que mis dedos son mas o menos torpes para una sección de espacio tan menuda, por lo que escribir allí me resulta poco práctico.
+Un dato adicional sobre el teclado. Al igual que MeeGo Harmattan, Sailfish trae por defecto un emulador de Terminal para acceder a la línea de comandos del teléfono (lo cual es para mí bastante útil, sobre todo porque a veces se me antoja escribir mis entradas del blog desde la Terminal usando VIM que es mi editor favorito). El teclado de la Terminal en Sailfish OS es diferente, para incluir algunas teclas adicionales. Las teclas estan aún más juntas y son mucho más pequeñas. No tengo las manos de Slenderman, sino que mis dedos son más o menos torpes para una sección de espacio tan menuda, por lo que escribir allí me resulta poco práctico.
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/tecladoT.png" description="Teclado del emulador de Terminal del teléfono." %}
 
@@ -78,27 +78,27 @@ Algo más sobre la aplicación de música en Sailfish OS ocurre con las notifica
 
 La aplicación de correo es otro problema. Es bastante impráctica. La navegación entre las carpetas de correo es poco intuitiva, si no me fijo en que en la parte superior de arriba hay un destello que me indica que hay algo a la derecha, no me doy cuenta de que se encuentran allí. Adicionalmente la búsqueda parece estar rota o mal implementada. Luego de hacer una primera búsqueda, al querer hacer una segunda, ocurre que al teclear un caracter, la caja de búsqueda pierde foco y muestra la búsqueda de un solo caracter. Es necesario volver a presionar sobre la caja de búsqueda para buscar el correo o cerrar y teclear el segundo caracter y nuevamente repetir lo anterior, así caracter por caracter para volver a hacer la búsqueda, en definitiva, un desarrollo poco cuidado.
 
-Sobre la aplicación de Twitter tengo dos palabras: No existe. No hay aplicación de Twitter propiamente dicha. En su lugar hay un notificador que te indica sobre las menciones que te hicieron y que en el caso de ocurrir alguna te abre el browser para que puedas verla. Llama la atención que al equipo de Sailfish no se le haya ocurrido siquiera tomar alguna de las aplicaciones comunitarias existentes y mejorarla para tal fin. En su lugar, estoy utilizando Piepmatz, que no es muy buena, pero es lo que hay. La otra que sugieren, Tweetian, es demasiado limitada, no la recomiendo.
+Sobre la aplicación de Twitter tengo dos palabras: No existe. No hay aplicación de Twitter propiamente dicha. En su lugar hay un notificador que te indica sobre las menciones que te hicieron y que en el caso de ocurrir alguna te abre el browser para que puedas verla. Llama la atención que al equipo de Sailfish no se le haya ocurrido siquiera tomar alguna de las aplicaciones comunitarias existentes y mejorarla para tal fin. En su lugar, estoy utilizando Piepmatz, que no es muy buena, pero es lo que hay. La otra que sugieren, Tweetian, es demásíado limitada, no la recomiendo.
 
-Finalmente quiero hablar del browser por defecto. El browser de Sailfish OS, a diferencia de lo que puede pensarse ya que esta escrito con Qt, utiliza Gecko (sí, el de Firefox, con todos los problemas que tiene) como motor de renderizado. Con esto más de una vez se pueden notar problemas de renderizado en las páginas. Dicho sea de paso, la interfaz del mismo browser parece tener unos cuantos glitches que deberían corregir. A lo mejor con la salida de Firefox Quantum y el cambio a Servo como nuevo engine, ellos cambien a Gecko por este último. Sinceramente yo no se en qué estaban pensando cuando decidieron esto.
+Finalmente quiero hablar del browser por defecto. El browser de Sailfish OS, a diferencia de lo que puede pensarse ya que esta escrito con Qt, utiliza Gecko (sí, el de Firefox, con todos los problemás que tiene) en lugar de WebKit o Blink como motor de renderizado. Con esto más de una vez se pueden notar problemás de renderizado en las páginas. Dicho sea de paso, la interfaz del mismo browser parece tener unos cuantos glitches que deberían corregir. A lo mejor con la salida de Firefox Quantum y el cambio a Servo como nuevo engine, ellos cambien a Gecko por este último. Sinceramente yo no se en qué estaban pensando cuando decidieron esto.
 
-{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser1.png" description="El Browser de Sailfish OS y sus problemas de renderización." %}
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser1.png" description="El Browser de Sailfish OS y sus problemás de renderización." %}
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser2.png" description="Glitches en el browser." %}
 
-La tienda de aplicaciones es limitada. No la utilicen. En su lugar instalen Warehouse. Van a encontrar mas variedad de software allí.
+La tienda de aplicaciones es limitada. No la utilicen. En su lugar instalen Warehouse. Van a encontrar más variedad de software allí.
 
 #### Soporte para aplicaciones Android
 El soporte para Android que usa como corazón a AlienDalvik de Myriad Group es respetable para una buena cantidad de aplicaciones comunes. Aplicaciones como Firefox, Uber, VLC, KDE Connect van bastante bien. Las aplicaciones que requieren de notificaciones van bien en todo... excepto en las notificaciones. Si instalas WhatApp o Signal, pueden pasar HORAS hasta que notes un mensaje importante porque el puente para las notificaciones de Android hacia Sailfish OS parece tener todavía mucho por hacer, ya que éstas simplemente no funcionan. 
 
-Por otro lado, las aplicaciones que requieran de un Android No Rooteado simplemente no funcionarán. Probé, Super Mario Run, Pokémon Go y Miitomo (de Nintendo). Ninguna de las tres funcionan. PuzzleFighter (de Capcom) parece no tener problemas. 
+Por otro lado, las aplicaciones que requieran de un Android No Rooteado simplemente no funcionarán. Probé, Super Mario Run, Pokémon Go y Miitomo (de Nintendo). Ninguna de las tres funcionan. PuzzleFighter (de Capcom) parece no tener problemás. 
 
 #### Sobre la comunidad
 Depende. Si tienes dudas sobre el uso de Sailfish OS es probable recibir ayuda de comunidades de MeeGo o de Maemo. Los foros de ayuda de Jolla pueden demorar bastante en responderte. 
 
-También hay fanboys que no admiten críticas, como éstos que ves por aca. Recomiendo no hacerles caso.
+También hay fanboys que no admiten críticas (Como los de @jollaes, evítalos. Esa cuenta, por cierto no es oficial). Recomiendo no hacerles caso.
 
 #### Conclusiones
-Sailfish OS es un sistema operativo que aún tiene mucho pan por rebanar. Requiere no de un poco sino mas bien de un mucho de trabajo en el que deben de revisar la experiencia de usuario y los bugs que aun tiene. Sin embargo, esta semana fue anunciado Sailfish OS 3 para el tercer cuarto de este año. Esperemos que todas estas falencias hayan sido superadas. Aun así y a pesar de todo, yo recomiendo Sailfish OS. Creo que es conveniente darle una oportunidad. Y si no eres partidario de usar Android o iOS es una buena alternativa. No es tan buena como Blackberry OS 10 o MeeGo Harmattan, pero esperemos que las mejoras estén por venir.
+Sailfish OS es un sistema operativo que aún tiene mucho pan por rebanar. Requiere no de un poco sino más bien de un mucho de trabajo en el que deben de revisar la experiencia de usuario y los bugs que aún tiene. Sin embargo, esta semana fue anunciado Sailfish OS 3 para el tercer cuarto de este año. Esperemos que todas estas falencias hayan sido superadas. Aun así y a pesar de todo, yo recomiendo Sailfish OS. Creo que es conveniente darle una oportunidad. Y si no eres partidario de usar Android o iOS es una buena alternativa. No es tan buena como Blackberry OS 10 o MeeGo Harmattan, pero esperemos que las mejoras estén por venir.
 
 Nos vemos.
