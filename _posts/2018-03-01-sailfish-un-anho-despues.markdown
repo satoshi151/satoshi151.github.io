@@ -14,7 +14,7 @@ En Noviembre de 2016 cayó en mis manos mi primer equipo basado en Sailfish OS: 
 
 Pasar a usar el Aquafish parecía una alternativa interesante y al parecer la más lógica luego de haber sido usuario de MeeGo Harmattan con el ya recordado Nokia N9 y además usuario tambien de Blackberry OS 10 sobre Blackberry Z30. Las tres plataformas antes mencionadas corrían una interfaz gráfica desarrollada sobre el famoso framework Qt, antes propiedad de Nokia y ahora de Digia.
 
-Dos de los tres sistemas están basados en Linux (Blackberry OS utiliza QNX como base),los que también tienen partes de su sistema liberados bajo licencias libres, aunque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
+Dos de los tres sistemas están basados en Linux (Blackberry OS utiliza QNX como base), los que también tienen partes de su sistema liberados bajo licencias libres, aunque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
 
 #### Generalidades sobre el equipo
 
@@ -24,7 +24,7 @@ Aquafish tiene un enfoque minimalista para mercados emergentes y eso se nota a p
 
 La batería tiene una duracion que puede ser útil si no se usan los datos móviles de forma exagerada (y teniendo inhabilitada la opción de GPS). La cámara por otro lado es una soberana porquería: una escasísima resolución y un acabado de imágenes mediocre. Desenfoca con facilidad, se nota que es un equipo barato y es lo que hay.
 
-El equipo en cuestión es de doble chip. Sin embargo tiene ciertas limitaciones con el uso de 4G LTE, ya que no es compatible con bandas de frecuencia 900, asó que si como yo eres usuario de Bitel, pues no lo aprovecharemos en este equipo.
+El equipo en cuestión es de doble chip. Sin embargo tiene ciertas limitaciones con el uso de 4G LTE, ya que no es compatible con bandas de frecuencia 900, así que si como yo eres usuario de Bitel, pues no lo aprovecharemos en este equipo.
 
 El sonido es pobre. Su nivel de intensidad limitado. Escuchar audio de volumen bajo es materialmente imposible. Realizar llamadas en altavoz es una ironía, me obliga a llevarme el equipo al oído mientras hablo.
 
