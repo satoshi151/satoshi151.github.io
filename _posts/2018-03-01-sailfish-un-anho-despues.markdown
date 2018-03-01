@@ -2,8 +2,8 @@
 layout: post
 title:  "Sailfish OS, Un año de uso después"
 date:   2018-03-01 00:55:26 -0500
-categories: general
-tags: blog
+categories: hardware
+tags: moviles, sailfish, linux
 topimg: "img/aquafish.jpg"
 thumb: "img/aquafish.jpg"
 ---
