@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Marketing terms: Hablando de más"
+date:   2017-10-16 12:00:00 -0500
+categories: hardware
+tags: hardware, gpu, cpu, marketing
+topimg: "img/blog1.jpg"
+thumb: "img/blog1.jpg"
+---
+A la hora de vender lo que sea, parece que vale cualquier artimañana, treta o artificio para acomodar las cosas a la conveniencia de quien lo publicita. El maquillaje verbal no es escatimado en tales situaciones, y quienes los desarrollan -acaso tal vez con la asesoría de quienes ayudan a la publicidad- se vuelven realmente prolíficos a la hora de asignarle alguna característica única a lo que ponen sobre la mesa. 
+
+Veamos un ejemplo. Hace algunos años, Apple publicitaba su sistema operativo, Mac OS X (que despues pasó a llamarse OS X y ahora unicamente macOS) -sin relación alguna con el viejo sistema operativo Mac OS 9 y anteriores- como algo único, completamente nuevo e inimaginable, revolucionario en todos los sentidos y todo lo demás. Entre lo que muchos decían de él, se mencionaba "Mac OS X tiene un microkernel", "es muy parecido a Linux" y "es muy, -muy- seguro". La realidad, de microkernel Mac OS X no tenia -ni tiene- absolutamente nada. Mac OS X tiene un subsistema BSD corriendo en ring 0, así que tiene un kernel monolítico. Fin de la historia, nada de microkernel. Eso de "microkernel" aquí no era otra cosa que un mero término, un _marketing term_; algo para vender humo.
+
+Mas aún y aprovechando que me refiero a un kernel. Mucho se habla que hay sistemas ooperativos con un "kernel híbrido". Para muchos especialistas, eso de "kernel hibrido" no es otra cosa que un kernel monolítico ligeramente "menos inflado", parece que eso basta para decir que no es monolítico. Sin embargo desde el punto de vista de la seguridad, seguimos hablando de un kernel monolítico. Nuevamente, otro _marketing term_ para no decir **kernel monolítico**, un diseño que data de los 70s (aunque como ya sabemos, vastamente utilizado en la actualidad).
+
+Retrocedamos un poco mas en el tiempo, a 1990. Nintendo había lanzado la muy popular -y recientemente relanzada- Super Nintendo (Super Famicom, como se conoció en Japón). Sega estaba haciéndole frente y necesitaba desesperadamente desplazar y de ser posible dejar en ridículo a la empresa de Kyoto. Sega necesitaba dejar en claro que su consola lanzada años antes en 1988, el Sega Genesis (Mega Drive, en Japón) era más potente y dejar merianamente diáfano que su poderosísimo Motorola 68k con frecuencia de reloj 7,6 MHz no tenía rival, por lo que el Ricoh 5A22 a 3,6 MHz no era un oponente digno. Sin embargo, habían varias variables de debían de tomarse en cuenta al momento de comparar ambas consolas, como a nivel de sonido (cantidad de voces) y potencia gráfica (la cantidad de colores soportados y los que podían usarse paralelamente), aspectos en los que SNES vencía ampliamente. Entonces en Sega se inventaron algo llamado **Blast Processing**, para -supuestamente- resaltar la potencia de procesamiento del Sega Genesis. Ultimadamente, ¿qué cosa era _blast processing_?. Respuesta: En resumen, nada. El resultado, toda la artillería publicitaria se centraría en esto de *blast processing* y en ridiculizar a la SNES. En fin, cosas de la era dorada del videojuego y la legendaria guerra de consolas (la verdadera, no el remedo que había hace algunos meses, especificamente antes de marzo).
+
+El último capítulo de esto se dío hace algunos años, cuando Scott Bayless, ejecutivo de Sega entonces, tomó la responsabilidad por el mencionado _marketing term_, puro humo.
+
+[logo]: /images/icon48.png "Scott Bayless, hablando de más"
+_Scott Bayless, hablando de más._
+
+[logo]: /images/icon48.png "La mencionada publicidad, uno de los tantos *capítulos* de la guerra de consolas."
+_La mencionada publicidad, uno de los tantos *capítulos* de la guerra de consolas."_
+
+Finalmente, hace unos meses fue lanzada la que por ahora se considera la consola de videojuegos más poderosa: Xbox One X (esas son muchas equis). Fue por ello que Sony (inventores de ese _marketing term_ llamado "4k dinámicos", que ya sabemos que en realidad es un timo) debía reinvindicar a PS4, así que recurrió a un invento de términos que no era de su autoría pero si de AMD, y me refiero al **Rapid Packet Math**. La idea de Rapid Packet Math no es otra que un artificio para aumentar, al menos sobre el papel, el número de operaciones de punto flotante por procesadas por segundo (FLOPS). A grandes rasgos lo que permite esto es realizar dos operaciones de 16 bits en una de 32 bits. Sin embargo, esto tiene un costo, ya que no es lo mismo una representación numérica con 32 bits que una con solo 16 bits (menos bits quedan disponibles para representar la mantisa, un numero que estuvo representado en 32 bits al pasar a 16 bits "se trunca") por lo que existe un impacto en la precisión que se observaría en el resultado de la imagen. Lo que a mi parecer hace esto un _marketing term_ es que la mejora es netamento nominal, en este caso para aumentar los FLOPS; siendo que per se no indican esa bondad, aquella que detalla la precisión. En cristiano: ¿qué es mejor, la exactitud de una operación de números de punto flotante representados en 32 bits o aquella realizada con representación en 16 bits?. 
+
+
+Vender humo es fácil, inventar términos para hacerse el interesante también. Sólo hay que ser creativo.
