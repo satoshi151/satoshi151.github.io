@@ -12,9 +12,9 @@ En Noviembre de 2016 cayó en mis manos mi primer equipo basado en Sailfish OS: 
 
 #### La adquisición
 
-Pasar a usar el Aquafish parecía una alternativa interesante y al parecer la más lógica luego de haber sido usuario de MeeGo Harmattan con el ya recordado Nokia N9 y además usuario tambien de Blackberry OS 10 sobre Blackberry Z30. Las tres plataformás antes mencionadas corrían una interfaz gráfica desarrollada sobre el famoso framework Qt, antes propiedad de Nokia y ahora de Digia.
+Pasar a usar el Aquafish parecía una alternativa interesante y al parecer la más lógica luego de haber sido usuario de MeeGo Harmattan con el ya recordado Nokia N9 y ademas usuario tambien de Blackberry OS 10 sobre Blackberry Z30. Las tres plataformas antes mencionadas corrían una interfaz gráfica desarrollada sobre el famoso framework Qt, antes propiedad de Nokia y ahora de Digia.
 
-Dos de los tres sistemás están basados en Linux (Blackberry OS utiliza QNX como base), los que también tienen partes de su sistema liberados bajo licencias libres, aúnque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
+Dos de los tres sistemas están basados en Linux (Blackberry OS utiliza QNX como base), los que también tienen partes de su sistema liberados bajo licencias libres, aunque en la práctica los tres son propietarios. Finalmente tanto los desarrollos de MeeGo Harmattan como de Blackberry OS  fueron abandonados ya por sus respectivos fabricantes (Nokia tras la adopción de Windows en sus equipos y posterior compra por Microsoft y Blackberry tras adoptar Android). 
 
 #### Generalidades sobre el equipo
 
@@ -28,12 +28,12 @@ El equipo en cuestión es de doble chip. Sin embargo tiene ciertas limitaciones 
 
 El sonido es pobre. Su nivel de intensidad limitado. Escuchar audio de volumen bajo es materialmente imposible. Realizar llamadas en altavoz es una ironía, me obliga a llevarme el equipo al oído mientras hablo.
 
-Aunque el Wifi tiene problemás con algunas redes N, va bien en G. El Bluetooth también va bien. No me dió problemás con unos audífonos Skullcandy que poseo aúnque no he probado con otros. 
+Aunque el Wifi tiene problemas con algunas redes N, va bien en G. El Bluetooth también va bien. No me dió problemas con unos audífonos Skullcandy que poseo aunque no he probado con otros. 
 
 #### Resistencia
-Veamos, ya mencione que el equipo deja mucho que desear en cuanto a esto, y al tacto se siente "corriente". Plástico poco cuidado. La cubierta anaranjada ha empezado a decolorarse, además de haber sufrido algunos rayones bajo los cuales se percibe el color blanco del plástico base. El acabado es de tan poca calidad que de las letras plateadas que muestran el logotipo de la marca "Intex", se salió la "X" el tercer día de uso. Completamente inesperado.
+Veamos, ya mencione que el equipo deja mucho que desear en cuanto a esto, y al tacto se siente "corriente". Plástico poco cuidado. La cubierta anaranjada ha empezado a decolorarse, ademas de haber sufrido algunos rayones bajo los cuales se percibe el color blanco del plástico base. El acabado es de tan poca calidad que de las letras plateadas que muestran el logotipo de la marca "Intex", se salió la "X" el tercer día de uso. Completamente inesperado.
 
-Por otro lado, luego de un tiempo en mi bolsillo la camara de rompió. Así de simple. Se quebro la resina transparente que recubre la camara. Esto sólo ocasíona problemás al tomar fotografías con mucha luz.
+Por otro lado, luego de un tiempo en mi bolsillo la camara de rompió. Así de simple. Se quebro la resina transparente que recubre la camara. Esto sólo ocasíona problemas al tomar fotografías con mucha luz.
 
 #### El Sistema Operativo
 En definitiva este es el apartado que más me interesa. Vamos a describirlo por puntos.
@@ -51,11 +51,25 @@ No quería llegar a este punto porque es el más desfavorable para Sailfish OS. 
 
 Como mencioné, alguien no tuvo mejor idea que colocar el selector de skins (que Sailfish OS llama pomposamente "Ambiences") al hacer swipe de arriba hacia abajo en cualquier caso. Desde este menú también se puede bloquear el equipo.
 
-Algo que también resulta molesto por demás es lo que sucede al estar cerca el consumo total de la batería. El telefono emite un pitido insoportablemente molesto acompañado de una vibración que pareciera que tuviese como principal objetivo acabar cuanto antes con lo poco que queda de batería en el teléfono. Y de hecho eso es lo que sucede, ya que en una de esas advertencias entre vibración y ruido molesto el teléfono terminará por apagarse. Lo peor de todo es que no hay forma de modificar mediante las opciones este comportamiento. Al menos no por ahora.
+Algo que también resulta molesto por demas es lo que sucede al estar cerca el consumo total de la batería. El telefono emite un pitido insoportablemente molesto acompañado de una vibración que pareciera que tuviese como principal objetivo acabar cuanto antes con lo poco que queda de batería en el teléfono. Y de hecho eso es lo que sucede, ya que en una de esas advertencias entre vibración y ruido molesto el teléfono terminará por apagarse. Lo peor de todo es que no hay forma de modificar mediante las opciones este comportamiento. Al menos no por ahora.
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/ambiences.png" description="Ambiences que aparecen a la mano en la interfaz." %}
 
 Por cierto, no hay forma (al menos por ahora) de cambiar ni los fondos de pantalla ni las imagenes de bloqueo en este teléfono. Tienes que conformarte con las que trae el sistema por defecto. Algo bastante molesto.
+
+**Editado: ** *Gracias a un comentario de Twitter de parte de OSOMA, me ha hecho notar que ya es posible cambiar los fondos de pantalla mediante la creación de un "Ambience". (De hecho había leído que siempre se había podido hacer, pero no de una forma directa sino mediante una app, sin embargo esta forma es mucho mas directa). En las imágenes a continuación indico la forma de hacerlo:*
+
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb1.png" description="Paso 1: Abra la imagen desde Gallery (o Galería)" %}
+
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb2.png" description="Paso 2: Oprima en el centro para mostrar el menu contextual." %}
+
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb3.png" description="Paso 3: Haga swipe de del centro hacia abajo y seleccione 'Create Ambience', luego de alli puede crear un Ambience nuevo." %}
+
+*En la pantalla de creación del ambience, se puede truncar la imagen para que haga de fondo, sin embargo, esto solo permite hacerse bajo ciertas dimensiones que son mas o menos cuadradas, por lo que está tan libre para colocarse. Basta comparar la imagen del paso 1 con la del Resultado.*
+
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb4.png" description="Resultado: La imagen deseada se encuentra insertada en un Ambience." %}
+
+* Debo agregar que la forma de hacerlo no es facil de deducir, es decir, aun cuando es posible hacerlo es preciso realizar cambios que familiaricen al usuario con este caso de uso, vale decir, necesita mejorarse la usabilidad.*
 
 Finalmente la forma en la que se maneja el cambio de horizontal a vertical de la pantalla al mover el teléfono en esas posiciones tiene una experiencia deficiente. Al hacer esto el teléfono vuelve su pantalla a negro y luego regresa a la pantalla cambiada. 
 
@@ -78,11 +92,11 @@ Algo más sobre la aplicación de música en Sailfish OS ocurre con las notifica
 
 La aplicación de correo es otro problema. Es bastante impráctica. La navegación entre las carpetas de correo es poco intuitiva, si no me fijo en que en la parte superior de arriba hay un destello que me indica que hay algo a la derecha, no me doy cuenta de que se encuentran allí. Adicionalmente la búsqueda parece estar rota o mal implementada. Luego de hacer una primera búsqueda, al querer hacer una segunda, ocurre que al teclear un caracter, la caja de búsqueda pierde foco y muestra la búsqueda de un solo caracter. Es necesario volver a presionar sobre la caja de búsqueda para buscar el correo o cerrar y teclear el segundo caracter y nuevamente repetir lo anterior, así caracter por caracter para volver a hacer la búsqueda, en definitiva, un desarrollo poco cuidado.
 
-Sobre la aplicación de Twitter tengo dos palabras: No existe. No hay aplicación de Twitter propiamente dicha. En su lugar hay un notificador que te indica sobre las menciones que te hicieron y que en el caso de ocurrir alguna te abre el browser para que puedas verla. Llama la atención que al equipo de Sailfish no se le haya ocurrido siquiera tomar alguna de las aplicaciones comunitarias existentes y mejorarla para tal fin. En su lugar, estoy utilizando Piepmatz, que no es muy buena, pero es lo que hay. La otra que sugieren, Tweetian, es demásíado limitada, no la recomiendo.
+Sobre la aplicación de Twitter tengo dos palabras: No existe. No hay aplicación de Twitter propiamente dicha. En su lugar hay un notificador que te indica sobre las menciones que te hicieron y que en el caso de ocurrir alguna te abre el browser para que puedas verla. Llama la atención que al equipo de Sailfish no se le haya ocurrido siquiera tomar alguna de las aplicaciones comunitarias existentes y mejorarla para tal fin. En su lugar, estoy utilizando Piepmatz, que no es muy buena, pero es lo que hay. La otra que sugieren, Tweetian, es demasíado limitada, no la recomiendo.
 
-Finalmente quiero hablar del browser por defecto. El browser de Sailfish OS, a diferencia de lo que puede pensarse ya que esta escrito con Qt, utiliza Gecko (sí, el de Firefox, con todos los problemás que tiene) en lugar de WebKit o Blink como motor de renderizado. Con esto más de una vez se pueden notar problemás de renderizado en las páginas. Dicho sea de paso, la interfaz del mismo browser parece tener unos cuantos glitches que deberían corregir. A lo mejor con la salida de Firefox Quantum y el cambio a Servo como nuevo engine, ellos cambien a Gecko por este último. Sinceramente yo no se en qué estaban pensando cuando decidieron esto.
+Finalmente quiero hablar del browser por defecto. El browser de Sailfish OS, a diferencia de lo que puede pensarse ya que esta escrito con Qt, utiliza Gecko (sí, el de Firefox, con todos los problemas que tiene) en lugar de WebKit o Blink como motor de renderizado. Con esto más de una vez se pueden notar problemas de renderizado en las páginas. Dicho sea de paso, la interfaz del mismo browser parece tener unos cuantos glitches que deberían corregir. A lo mejor con la salida de Firefox Quantum y el cambio a Servo como nuevo engine, ellos cambien a Gecko por este último. Sinceramente yo no se en qué estaban pensando cuando decidieron esto.
 
-{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser1.png" description="El Browser de Sailfish OS y sus problemás de renderización." %}
+{% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser1.png" description="El Browser de Sailfish OS y sus problemas de renderización." %}
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/browser2.png" description="Glitches en el browser." %}
 
@@ -91,7 +105,7 @@ La tienda de aplicaciones es limitada. No la utilicen. En su lugar instalen Ware
 #### Soporte para aplicaciones Android
 El soporte para Android que usa como corazón a AlienDalvik de Myriad Group es respetable para una buena cantidad de aplicaciones comunes. Aplicaciones como Firefox, Uber, VLC, KDE Connect van bastante bien. Las aplicaciones que requieren de notificaciones van bien en todo... excepto en las notificaciones. Si instalas WhatApp o Signal, pueden pasar HORAS hasta que notes un mensaje importante porque el puente para las notificaciones de Android hacia Sailfish OS parece tener todavía mucho por hacer, ya que éstas simplemente no funcionan. 
 
-Por otro lado, las aplicaciones que requieran de un Android No Rooteado simplemente no funcionarán. Probé, Super Mario Run, Pokémon Go y Miitomo (de Nintendo). Ninguna de las tres funcionan. PuzzleFighter (de Capcom) parece no tener problemás. 
+Por otro lado, las aplicaciones que requieran de un Android No Rooteado simplemente no funcionarán. Probé, Super Mario Run, Pokémon Go y Miitomo (de Nintendo). Ninguna de las tres funcionan. PuzzleFighter (de Capcom) parece no tener problemas. 
 
 #### Sobre la comunidad
 Depende. Si tienes dudas sobre el uso de Sailfish OS es probable recibir ayuda de comunidades de MeeGo o de Maemo. Los foros de ayuda de Jolla pueden demorar bastante en responderte. 
