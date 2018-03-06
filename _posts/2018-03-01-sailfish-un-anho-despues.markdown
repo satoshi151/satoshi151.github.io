@@ -66,12 +66,12 @@ Por cierto, no hay forma (al menos por ahora) de cambiar ni los fondos de pantal
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb3.png" description="Paso 3: Haga swipe de del centro hacia abajo y seleccione 'Create Ambience', luego de alli puede crear un Ambience nuevo." %}
 
-*En la pantalla de creación del ambience, se puede truncar la imagen para que haga de fondo, sin embargo, esto solo permite hacerse bajo ciertas dimensiones que son mas o menos cuadradas, por lo que está tan libre para colocarse. Basta comparar la imagen del paso 1 con la del Resultado.*
+*En la pantalla de creación del ambience, se puede escoger la imagen para que haga de fondo, sin embargo, esto solo permite hacerse si la imagen se trunca bajo ciertas dimensiones que son mas o menos cuadradas, por lo que no está tan libre para colocarse. Basta comparar la imagen del Paso 1 con la del Resultado.*
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb4.png" description="Resultado: La imagen deseada se encuentra insertada en un Ambience." %}
 
 *Debo agregar que la forma de hacerlo no es facil de deducir, es decir, aun cuando es posible hacerlo es preciso realizar cambios que familiaricen al usuario con este caso de uso, vale decir, necesita mejorarse la usabilidad.*
-**/Editado**
+**/--Editado--**
 
 Finalmente la forma en la que se maneja el cambio de horizontal a vertical de la pantalla al mover el teléfono en esas posiciones tiene una experiencia deficiente. Al hacer esto el teléfono vuelve su pantalla a negro y luego regresa a la pantalla cambiada. 
 
