@@ -57,7 +57,7 @@ Algo que también resulta molesto por demas es lo que sucede al estar cerca el c
 
 Por cierto, no hay forma (al menos por ahora) de cambiar ni los fondos de pantalla ni las imagenes de bloqueo en este teléfono. Tienes que conformarte con las que trae el sistema por defecto. Algo bastante molesto.
 
-**Editado: ** *Gracias a un comentario de Twitter de parte de OSOMA, me ha hecho notar que ya es posible cambiar los fondos de pantalla mediante la creación de un "Ambience". (De hecho había leído que siempre se había podido hacer, pero no de una forma directa sino mediante una app, sin embargo esta forma es mucho mas directa). En las imágenes a continuación indico la forma de hacerlo:*
+**Editado: ** *Gracias a un comentario de Twitter de parte de [@OSOMA](https://twitter.com/OSOMAmx/status/970643218105806848), me ha hecho notar que ya es posible cambiar los fondos de pantalla mediante la creación de un "Ambience". (De hecho había leído que siempre se había podido hacer, pero no de una forma directa sino mediante una app, sin embargo esta forma es mucho mas directa). En las imágenes a continuación indico la forma de hacerlo:*
 
 {% include image.html src="/img/2018-03-01-sailfish-un-anho-despues/amb1.png" description="Paso 1: Abra la imagen desde Gallery (o Galería)" %}
 
