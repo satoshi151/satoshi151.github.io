@@ -7,7 +7,7 @@ tags: eventos cybersecuritybank
 topimg: "img/2018-05-06-cybersecurity-bank-desinvitado/mtics.png"
 thumb: "img/2018-05-06-cybersecurity-bank-desinvitado/mtics.png"
 ---
-Ya he asistido en más de una ocasión al evento. Asistí por primera vez en el año 2011 si mal no recuerdo, cuando aún lo organizaba ISSA Perú. En aquella ocasión el evento se llevó a cabo en el Swissotel, y tuvo charlas muy interesantes. El evento se repitió en años subsiguientes y en ese sentido continué reibiendo las invitaciones de dicho congreso. Los tiempos cambiaron y en el transcurso cambió también la organización, por lo que ésta ahora cambió a MTICS Producciones. Todo bien con ese evento, al menos hasta ahora.
+Ya he asistido en más de una ocasión al evento. Asistí por primera vez en el año 2011 si mal no recuerdo, cuando aún lo organizaba ISSA Perú. En aquella ocasión el evento se llevó a cabo en el Swissotel, y tuvo charlas muy interesantes. El evento se repitió en años subsiguientes y en ese sentido continué recibiendo las invitaciones de dicho congreso. Los tiempos cambiaron y en el transcurso cambió también la organización, por lo que ésta ahora cambió a MTICS Producciones. Todo bien con ese evento, al menos hasta ahora.
 
 El día 2 de mayo, regresaba a trabajar como siempre luego de un descanso por el día del trabajo, cuando mensaje salvaje de correo electrónico aparece.
 >From: Monica Tasat 
