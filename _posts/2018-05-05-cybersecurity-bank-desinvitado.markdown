@@ -16,14 +16,20 @@ El día 2 de mayo, regresaba a trabajar como siempre luego de un descanso por el
 >Estimado/a
 > 
 >REFERENCIA
+>
 >7° CONGRESO CYBERSECURITY BANK & GOVERNMENT EDICIÓN LIMA
+>
 >DETALLE
->EVENTO DIRIGIDO A A CLIENTES FINALES​ DEL SECTOR BANCOS Y GOBIERNO​
+>
+>EVENTO DIRIGIDO A A CLIENTES FINALES DEL SECTOR BANCOS Y GOBIERNO
+>
 >NOTIFICACION
+>
 >SE HA ELIMINADO SU INSCRIPCIÓN
+>
 >MUCHAS GRACIAS
+>
 >EQUIPO MTICS PRODUCCIONES
-
 
 
 {% include image.html src="/img/2018-05-06-cybersecurity-bank-desinvitado/correo.png" description="La desinvitación. Por MTICS Producciones." %}
