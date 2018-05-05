@@ -15,21 +15,21 @@ El día 2 de mayo, regresaba a trabajar como siempre luego de un descanso por el
 >  
 >Estimado/a
 > 
->REFERENCIA
+>*REFERENCIA*
 >
 >7° CONGRESO CYBERSECURITY BANK & GOVERNMENT EDICIÓN LIMA
 >
->DETALLE
+>*DETALLE*
 >
 >EVENTO DIRIGIDO A A CLIENTES FINALES DEL SECTOR BANCOS Y GOBIERNO
 >
->NOTIFICACION
+>*NOTIFICACION*
 >
 >SE HA ELIMINADO SU INSCRIPCIÓN
 >
 >MUCHAS GRACIAS
 >
->EQUIPO MTICS PRODUCCIONES
+>*EQUIPO MTICS PRODUCCIONES*
 
 
 {% include image.html src="/img/2018-05-06-cybersecurity-bank-desinvitado/correo.png" description="La desinvitación. Por MTICS Producciones." %}
@@ -40,8 +40,8 @@ Así de simple. Vamos, esta gente tiene mis datos hace tiempo. Saben bien a que 
 {% include image.html src="/img/2018-05-06-cybersecurity-bank-desinvitado/invita.png" description="La invitación. También por MTICS Producciones." %}
 
 
-Nunca en mi carrera como ingeniero, ni en el tiempo que he sido estudiante había recibido algo de un evento que pudiera considerar una falta de respeto. Nunca, ni como asistente --como este caso--, ni como expositor en casos anteriores (en eventos de otros campos de la informática). 
+Nunca ni en el tiempo que he sido estudiante, ni después de que me gradué había recibido algo de un evento que pudiera considerar una falta de respeto. Nunca, ni como asistente --como este caso--, ni como expositor en casos anteriores (en eventos de otros campos de la informática). 
 
-Es decir, si cometes un error, porque se te pasó, se te olvidó, decidieron cambiar a última hora el público objetivo del evento (lo cual denota falta de seriedad) o lo que fuere, lo mínimo que haces en enviar una disculpa. No "desinvitas" al asistente a un evento, mas aún conociendo el ámbito al que pertenece tu asistente al evento al que ya has invitado a eventos anteriores. Muchos separamos estas fechas con antelación. No es que pedimos permiso de última hora en el trabajo --o en los trabajos, como es mi caso--, sino que vemos que cosa nos vamos a perder ese día para poder asistir, preguntamos a los que se presentaron en ediciones anteriores por si acaso volverán asistir, en el caso que no esté publicado algún programa, etc. Nada de esto parece relevante.
+Es decir, si cometes un error, porque se te pasó, se te olvidó, decidieron cambiar a última hora el público objetivo del evento (lo cual denota falta de seriedad) o lo que fuere, lo mínimo que haces en enviar una disculpa. No "desinvitas" al asistente a un evento, mas aún conociendo el ámbito al que pertenece tu asistente al evento al que ya has invitado a eventos anteriores. Muchos separamos estas fechas con antelación. No es que pedimos permiso de última hora en el trabajo --o en los trabajos, como es mi caso--, sino que vemos que cosa nos vamos a perder ese día para poder asistir; preguntamos a los que se presentaron en ediciones anteriores por si acaso volviesen asistir, en el caso que no esté publicado algún programa, etc. Nada de esto parece relevante.
 
-Y desde aquí menciono lo siguiente: "Señora Mónica Tasat: ¿Es consciente de lo mal que se hacen las cosas en su evento? Con el respeto que usted me merece, ¿Conoce del concepto 'buena imagen'?". Conocen mis datos, y conocen el rubro en el que trabajo. Y por lo visto, ese mensaje tan impersonal (y frívolo, un poco más y parece un archivo separado por comas) que fue generado con un script, también se lo han mandado a mas personas. Por respeto, deberían pedir disculpas.
+Y desde aquí menciono lo siguiente: "Señora Mónica Tasat: ¿Es consciente de lo mal que se hacen las cosas en su evento? Con el respeto que usted me merece, ¿Conoce del concepto 'buena imagen'?. Conocen mis datos, y conocen el rubro en el que trabajo. Y por lo visto, ese mensaje tan impersonal (y frívolo, un poco más y parece un archivo separado por comas) también se lo han mandado a más personas. Por respeto, deberían pedir disculpas."
