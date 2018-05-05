@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cybersecurity Bank 2018: ¡Invitado y...! Desinvitado"
-date:   2018-05-06 00:00:00 -0500
+date:   2018-05-05 00:00:00 -0500
 categories: seguridad
 tags: eventos cybersecuritybank
 topimg: "img/2018-05-06-cybersecurity-bank-desinvitado/mtics.png"
