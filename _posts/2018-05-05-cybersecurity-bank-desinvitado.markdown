@@ -11,12 +11,13 @@ Ya he asistido en más de una ocasión al evento. Asistí por primera vez en el 
 
 El día 2 de mayo, regresaba a trabajar como siempre luego de un descanso por el día del trabajo, cuando mensaje salvaje de correo electrónico aparece.
 
-![correo electrónico](/img/2018-05-06-cybersecurity-bank-desinvitado/correo.png =20)
+{% include image.html src="/img/2018-05-06-cybersecurity-bank-desinvitado/correo.png" description="La desinvitación. Por MTICS Producciones." %}
 
 Como salido de un script, sin nombre, sin saludo. Estimado: No está invitado.
 Así de simple. Vamos, esta gente tiene mis datos hace tiempo. Saben bien a que campo pertenezco. Y estamos hablando de una invitación que hicieron ellos (MTICS Producciones), vale decir, no es que yo haya solicitado asistir.
 
-![La invitación](/img/2018-05-06-cybersecurity-bank-desinvitado/invitacion.png =20)
+{% include image.html src="/img/2018-05-06-cybersecurity-bank-desinvitado/invitacion.png" description="La invitación. También por MTICS Producciones." %}
+
 
 Nunca en mi carrera como ingeniero, ni en el tiempo que he sido estudiante había recibido algo de un evento que pudiera considerar una falta de respeto. Nunca, ni como asistente --como este caso--, ni como expositor en casos anteriores (en eventos de otros campos de la informática). 
 
