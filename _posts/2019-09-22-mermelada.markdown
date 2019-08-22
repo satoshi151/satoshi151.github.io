@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El mermelero, la mermelada y los maletines en los videojuegos ¿y la ética?"
-date:   2018-05-05 00:00:00 -0500
+date:   2019-09-22 00:00:00 -0500
 categories: videojuegos
 tags: periodistas 
 topimg: "img/2019-09-22/mermelada.jpg"
